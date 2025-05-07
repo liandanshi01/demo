@@ -17,5 +17,14 @@
   },
   "man-api/account/aduit": {
     "code": 200
-  }
+  },
+   "users": [
+     
+     {
+        "id": 100
+        "name": "张三",
+        "age": 18
+     }
+   
+   ],
 }
