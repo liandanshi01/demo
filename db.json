@@ -14,5 +14,8 @@
   "userInfo": {
     "name": "张三",
     "age": 18
+  },
+  "man-api/account/aduit": {
+    "code": 200
   }
 }
