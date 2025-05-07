@@ -1,30 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "userInfo": {
-    "name": "张三",
-    "age": 18
-  },
-  "man-api/account/aduit": {
-    "code": 200
-  },
-   "users": [
-     
-     {
-        "id": 100
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "userInfo": {
         "name": "张三",
         "age": 18
-     }
-   
-   ],
+    },
+    "man-api/account/aduit": {
+        "code": 200
+    },
+    "users": [
+        {
+            "id": 100,
+            "name": "张三",
+            "age": 18
+        }
+    ]
 }
